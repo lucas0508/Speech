@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">无敌</string>
+    <string name="btnstart">start</string>
+    <string name="btnstop">stop</string>
+</resources>
